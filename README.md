@@ -1,4 +1,2 @@
-# stickerbook-app
-Stickerbook application developed for the Media Lab's Curious Learning class
-
-Anneli Hershman and Juliana Nazare
+# Stickerbook App
+Stickerbook application developed for the Media Lab's Curious Learning class by Anneli Hershman and Juliana Nazaré
